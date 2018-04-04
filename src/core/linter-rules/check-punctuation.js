@@ -31,6 +31,9 @@ function lintingFunction(conf, doc) {
   const offendingElements = Array.from(doc.querySelectorAll("p:not(#back-to-top)"))
     .filter((elem) => !(punctuatingRegExp.test(elem.textContent)));
   
+  //For the editor to directly reach the offending elements.
+  console.log(offendingElements)
+  
   const result = {
     name,
     offendingElements,
