@@ -1,5 +1,7 @@
 # ReSpec
 
+[![Join the chat at https://gitter.im/shikhar-scs/respecGSOC](https://badges.gitter.im/shikhar-scs/respecGSOC.svg)](https://gitter.im/shikhar-scs/respecGSOC?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Greenkeeper badge](https://badges.greenkeeper.io/w3c/respec.svg)](https://greenkeeper.io/) [![Build Status](https://travis-ci.org/w3c/respec.svg?branch=develop)](https://travis-ci.org/w3c/respec) [![Known Vulnerabilities](https://snyk.io/test/github/w3c/respec/badge.svg)](https://snyk.io/test/github/w3c/respec)
 
 ReSpec is a JS library that makes it easier to write technical specifications, or documents
